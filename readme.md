@@ -1,5 +1,5 @@
-# Todo List App
+# FoodMunch site
 
-## HTML, CSS, JS, Bootstrap
+## HTML, CSS, Bootstrap
 
-`https://naritodoapp.ccbp.tech/`
+`https://narifoodsite.ccbp.tech/`
